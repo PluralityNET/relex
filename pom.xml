@@ -262,7 +262,7 @@
 		<dependency>
 			<groupId>net.sourceforge.owlapi</groupId>
 			<artifactId>owlapi-distribution</artifactId>
-			<version>3.5.7</version>
+			<version>4.5.28</version>
 		</dependency>
 		<!-- Logging -->
 		<dependency>
